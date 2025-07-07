@@ -28,8 +28,8 @@
 
 ## 📈 GitHub Статистика
 
-![azedefender's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=tokyonight)
+![azedefender's GitHub stats](https://github-readme-stats.vercel.app/api?username=azedefender&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azedefender&layout=compact&theme=tokyonight)
 
 ---
 
